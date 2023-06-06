@@ -5,7 +5,7 @@ Here is the original Google Search:
 
 Here is my output:
 
-![Screenshot (251)](https://github.com/AbhaNair/GoogleSearch/assets/109072394/4220a15c-7ed5-45cd-882b-625e5d2f9d7e)
+![Screenshot (252)](https://github.com/AbhaNair/GoogleSearch/assets/109072394/0c374028-8205-4af3-95c2-06dddf02bec0)
 
 I made this project to play around with flex-box and strengthen my understanding of the same.
 I've used basic HTML paired with CSS, as previously mentioned i've mainly made use of flex-box which was the main intent of pursuing and completing this project.
