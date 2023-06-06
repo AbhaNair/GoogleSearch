@@ -1,3 +1,5 @@
+# Overview
+
 This project is a clone of a Google Search Results Page.
 Here is the original Google Search:
 
@@ -6,6 +8,8 @@ Here is the original Google Search:
 Here is my output:
 
 ![Screenshot (252)](https://github.com/AbhaNair/GoogleSearch/assets/109072394/0c374028-8205-4af3-95c2-06dddf02bec0)
+
+# Objective
 
 I made this project to play around with flex-box and strengthen my understanding of the same.
 I've used basic HTML paired with CSS, as previously mentioned i've mainly made use of flex-box which was the main intent of pursuing and completing this project.
